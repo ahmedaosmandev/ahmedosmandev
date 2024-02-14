@@ -5,11 +5,31 @@
 I'm a Student Assistant based in Sacramento, CA. I have a passion for creating full stack applications with a focus on functionality and design. I love to work on projects with new languages. When I'm not coding, you can find me at the gym, reading, or playing some cities skylines.
 
 ## Skills
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks/Libraries**: React, Node.js, Django
-- **Tools**: Git, Docker, Jenkins
-- **Databases**: MySQL, MongoDB
-- **Other**: Cloud services (AWS, Google Cloud Platform), Agile methodologies
+
+### Frontend
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![jQuery](https://skillicons.dev/icons?i=jquery)](https://skillicons.dev)
+
+### Backend
+[![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+[![ASP.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![Express.js](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+### Database
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
 
 ## Socials
 <div id="badges">
