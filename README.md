@@ -36,6 +36,9 @@ I'm a Student Assistant based in Sacramento, CA. I have a passion for creating f
   <a href="https://www.linkedin.com/in/ahmedaosman00/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="mailto:ahmedaosman00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
 </div>
 
 ## Side Notes
