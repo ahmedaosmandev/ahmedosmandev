@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Student Assistant based in Sacramento, CA. I have a passion for creating full stack applications with a focus on functionality and design. I love to work on projects with new languages. When I'm not coding, you can find me at the gym, reading, or playing some cities skylines.
+I'm a Student Assistant for the State of California based in Sacramento, CA. I have a passion for creating full stack applications with a focus on functionality and design. I love to work on projects with new languages. When I'm not coding, you can find me at the gym, reading, or playing some cities skylines.
 
 ## Skills
 
