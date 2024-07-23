@@ -33,7 +33,7 @@ I'm a Student Assistant for the State of California based in Sacramento, CA. I h
 
 ## Socials
 <div id="badges">
-  <a href="https://www.linkedin.com/in/ahmedaosman00/">
+  <a href="https://www.linkedin.com/in/ahmedaosmandev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:ahmedaosman00@gmail.com">
